@@ -17,19 +17,19 @@ Please cite the paper below if you use the dataset:
 @inproceedings{Liao2017Mutual,
 
   
-    title={Mutual Enhancement for Detection of Multiple Logos in Sports Videos},
+title={Mutual Enhancement for Detection of Multiple Logos in Sports Videos},
 
   
-    author={Liao, Yuan and Lu, Xiaoqing and Zhang, Chengcui and Wang, Yongtao and Tang, Zhi},
+author={Liao, Yuan and Lu, Xiaoqing and Zhang, Chengcui and Wang, Yongtao and Tang, Zhi},
 
   
-    booktitle={IEEE International Conference on Computer Vision},
+booktitle={IEEE International Conference on Computer Vision},
 
   
-    pages={4856-4865},
+pages={4856-4865},
 
   
-    year={2017},
+year={2017},
   
 
 }
