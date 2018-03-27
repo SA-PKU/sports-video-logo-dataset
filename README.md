@@ -2,7 +2,7 @@
 
 
 
-The sports-video-logo-dataset contains two directories, and each directory contains two sub-directories. The format of each annotation .xml file is the same as VOC dataset.
+The sports-video-logo-dataset contains two directories, and each directory contains two sub-directories(<dir>/images and <dir>/annotations). The format of each annotation .xml file is the same as VOC dataset.
 :
 - ./SportsLogoVideo: this directory contains the video clips and the logo annotations in each frame. We annotate 20 logo classes with high frequency.
 	- ./images: each sub-directory under this direcroty is a logo image set of one logo class. The sub-directory name is the logo class name.
